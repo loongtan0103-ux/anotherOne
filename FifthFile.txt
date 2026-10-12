@@ -1,0 +1,6 @@
+###
+## test-git
+## This is text file number 5
+###
+
+To thine own self be true.

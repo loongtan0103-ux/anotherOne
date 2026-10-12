@@ -1,0 +1,6 @@
+###
+## test-git
+## This is text file number 3
+###
+
+A horse! A horse! My kingdom for a horse!
